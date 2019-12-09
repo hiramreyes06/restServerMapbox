@@ -1,13 +1,14 @@
 {
   "name": "socket-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rest server para mapbox",
   "main": "index.js",
   "scripts": {
+    "Serve":"node index.js",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Luis Hiram Reyes Vidrio",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
